@@ -1,7 +1,10 @@
+import Weather from "./Weather";
+
 export default function App() {
   return (
     <div>
       <h1>My Weather App</h1>
+      <Weather />
       <p>
         Coded by Megan Gee, and is open-sourced on{" "}
         <a
