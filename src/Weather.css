@@ -1,4 +1,32 @@
+.Weather {
+  font-family: arial, sans-serif;
+  border: 1px solid #dadde1;
+  margin: 40px;
+  padding: 20px;
+  border-radius: 10px;
+  color: rgb(135, 135, 135);
+}
+
+.Weather h3 {
+  margin-top: 20px;
+}
+
+.Weather ul {
+  margin: 0;
+  padding: 0;
+}
+
+.Weather li {
+  list-style: none;
+}
+
 .Weather .temperature {
-  display: flex;
-  justify-content: space-between;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.Weather .celcius {
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: 400;
 }
