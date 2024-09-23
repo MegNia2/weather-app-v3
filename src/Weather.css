@@ -20,7 +20,7 @@
   list-style: none;
 }
 
-.Weather .temperature {
+.Weather .temp {
   font-weight: bold;
   font-size: 40px;
 }
