@@ -20,13 +20,17 @@
   list-style: none;
 }
 
+.Weather canvas {
+  margin-top: 10px;
+}
 .Weather .temp {
+  margin-top: 10px;
   font-weight: bold;
   font-size: 40px;
 }
 
 .Weather .celcius {
   margin-top: 10px;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 400;
 }
