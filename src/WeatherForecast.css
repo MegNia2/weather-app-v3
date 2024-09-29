@@ -1,0 +1,9 @@
+.WeatherForecast {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.max-temperature {
+  font-weight: bold;
+  margin-right: 5px;
+}
